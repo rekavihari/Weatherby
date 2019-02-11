@@ -1,5 +1,5 @@
 //
-//  WeatherService.swift
+//  NetworkService.swift
 //  Weatherby
 //
 //  Created by Reka Vihari on 2019. 02. 10..
